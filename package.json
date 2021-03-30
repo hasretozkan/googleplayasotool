@@ -1,0 +1,16 @@
+{
+  "name": "googleplayasotool",
+  "version": "1.0.0",
+  "description": "ASO Tool About Google Play",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "Hasret Özkan",
+  "license": "MIT",
+  "dependencies": {
+    "google-play-scraper": "^8.0.2",
+    "terminal-kit": "^2.0.7"
+  }
+}
